@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @annatrubaieva
-- 👀 I’m interested in Data analysis 
-- 🌱 I’m currently learning SQL, Power BI
+-  I have been analyzing the Contact Center's metrics and staff performance for 1.5 years, helping to allocate resources. Before that, I worked as a Sales and Pricing Analyst for 1 year. I am interested in business analysis.
+- 🌱 I want to improve my skills in data analytics and business intelligence, in particular SQL, and gain experience in project work
+I want to be part of a large team that works together on projects in foreign markets.
+- 👀 I’m interested in Data analysis
 - 📫 How to reach me: t.me/annatrubaeva
 
 <!---
